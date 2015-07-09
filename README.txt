@@ -1,3 +1,20 @@
+
+Updated Readme:
+
+Modified hidapi to support Android OTG and other platform last glucose result
+from Insulinx meter
+
+Instructions:
+
+Compile hidtest for libusb / hidraw and run with root to get the last result
+information. Mostly for MTK Android phone.
+
+Acknowledgments and thanks to the work of Signal11 and Xavier Claessens
+
+
+
+
+
          HIDAPI library for Windows, Linux, FreeBSD and Mac OS X
         =========================================================
 
